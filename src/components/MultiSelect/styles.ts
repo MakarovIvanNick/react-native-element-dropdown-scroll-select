@@ -72,7 +72,8 @@ export const styles = StyleSheet.create({
   },
   rowSelectedItem: {
     flexDirection: I18nManager.isRTL ? 'row-reverse' : 'row',
-    flexWrap: 'wrap',
+    flex: 1,
+    overflow: 'hidden',
   },
   selectedItem: {
     padding: 8,
