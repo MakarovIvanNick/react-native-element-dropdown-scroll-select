@@ -1,5 +1,5 @@
 {
-  "name": "@MakarovIvanNick/react-native-element-dropdown-scroll-select",
+  "name": "@makarovivannick/react-native-element-dropdown-scroll-select",
   "version": "0.0.1",
   "description": "React Native Element Dropdown is a library that provides a customizable dropdown component for React Native applications.",
   "main": "lib/commonjs/index",
